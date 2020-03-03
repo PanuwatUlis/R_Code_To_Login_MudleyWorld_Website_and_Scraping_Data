@@ -1,4 +1,4 @@
-# R_Code_To_Login_MudleyWorld_Website_and_Scraping_Data
+# R Code to Login MudleyWorld and Scraping Data
 To log in Mudley World Trading Platform with R Code and then scraping data from the website
 
 Requirement: Need to install some library before use the code
